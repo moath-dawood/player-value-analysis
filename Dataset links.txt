@@ -1,0 +1,3 @@
+Transfermarket dataset: https://www.kaggle.com/datasets/mohamedsewid/soccer-forwards-performance-and-market-value-2025/data
+
+Premier league dataset: https://www.kaggle.com/datasets/piyushsharma37/premier-league-market-value-dataset-2025/data

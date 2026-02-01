@@ -1,0 +1,87 @@
+Player Name,Position,Age,Points,Market value,Performance_Level,Age_Group,Market_Value_Million
+Matheus Cunha,Second Striker,25,23,60000000,Very High,23-26,60.0
+João Félix,Second Striker,24,9,20000000,Low,23-26,20.0
+Rayan Cherki,Right Winger,20,20,45000000,Very High,18-22,45.0
+Brennan Johnson,Right Winger,23,19,40000000,High,23-26,40.0
+Amad Diallo,Right Winger,21,18,45000000,High,18-22,45.0
+Bukayo Saka,Right Winger,22,18,150000000,High,18-22,150.0
+Anthony Elanga,Right Winger,22,18,42000000,High,18-22,42.0
+Wilfried Gnonto,Right Winger,20,15,22000000,Medium,18-22,22.0
+Mohamed Salah,Right Winger,20,13,800000,Medium,18-22,0.8
+Yankuba Minteh,Right Winger,19,12,30000000,Medium,18-22,30.0
+Savinho,Right Winger,20,12,50000000,Medium,18-22,50.0
+Fer López,Right Winger,20,11,5000000,Low,18-22,5.0
+Noni Madueke,Right Winger,22,11,40000000,Low,18-22,40.0
+Ben Doak,Right Winger,18,10,14000000,Low,,14.0
+Ethan Nwaneri,Right Winger,17,9,55000000,Low,,55.0
+Jesurun Rak-Sakyi,Right Winger,21,9,6000000,Low,18-22,6.0
+Mohammed Kudus,Right Winger,23,9,45000000,Low,23-26,45.0
+Romain Esse,Right Winger,19,8,12000000,Low,18-22,12.0
+Bryan Mbeumo,Right Winger,24,29,55000000,Very High,23-26,55.0
+Jarrod Bowen,Right Winger,27,24,40000000,Very High,27-30,40.0
+Jacob Murphy,Right Winger,29,23,16000000,Very High,27-30,16.0
+Daniel James,Right Winger,26,21,18000000,Very High,23-26,18.0
+Ismaïla Sarr,Right Winger,26,20,25000000,Very High,23-26,25.0
+Phil Foden,Right Winger,24,11,100000000,Low,23-26,100.0
+Pedro Neto,Right Winger,24,11,50000000,Low,23-26,50.0
+Adama Traoré,Right Winger,28,11,9000000,Low,27-30,9.0
+Patrick Roberts,Right Winger,27,9,5000000,Low,27-30,5.0
+Antony,Right Winger,24,8,35000000,Low,23-26,35.0
+Harry Wilson,Right Winger,27,8,15000000,Low,27-30,15.0
+Nico González,Right Winger,26,7,24000000,Low,23-26,24.0
+Jota Silva,Right Winger,24,7,15000000,Low,23-26,15.0
+Mohamed Salah,Right Winger,32,50,50000000,Very High,31-35,50.0
+Alejandro Garnacho,Left Winger,20,16,45000000,High,18-22,45.0
+Anthony Gordon,Left Winger,23,16,65000000,High,23-26,65.0
+Kevin Schade,Left Winger,22,15,30000000,Medium,18-22,30.0
+Jérémy Doku,Left Winger,22,14,50000000,Medium,18-22,50.0
+Dango Ouattara,Left Winger,22,13,28000000,Medium,18-22,28.0
+Gabriel Martinelli,Left Winger,23,12,55000000,Medium,23-26,55.0
+Jamie Gittens,Left Winger,19,12,50000000,Medium,18-22,50.0
+Abdallah Sima,Left Winger,23,11,9000000,Low,23-26,9.0
+Largie Ramazani,Left Winger,23,10,7500000,Low,23-26,7.5
+Callum Hudson-Odoi,Left Winger,23,8,25000000,Low,23-26,25.0
+Simon Adingra,Left Winger,22,7,28000000,Low,18-22,28.0
+Romaine Mundle,Left Winger,21,7,6000000,Low,18-22,6.0
+Bryan Gil,Left Winger,23,7,15000000,Low,23-26,15.0
+Ibrahim Osman,Left Winger,19,7,10000000,Low,18-22,10.0
+Manor Solomon,Left Winger,24,23,14000000,Very High,23-26,14.0
+Cody Gakpo,Left Winger,25,21,70000000,Very High,23-26,70.0
+Luis Díaz,Left Winger,27,21,70000000,Very High,27-30,70.0
+Antoine Semenyo,Left Winger,24,20,40000000,Very High,23-26,40.0
+Marcus Rashford,Left Winger,26,16,50000000,High,23-26,50.0
+Leandro Trossard,Left Winger,29,16,22000000,High,27-30,22.0
+Kaoru Mitoma,Left Winger,27,15,40000000,Medium,27-30,40.0
+Alex Iwobi,Left Winger,28,15,28000000,Medium,27-30,28.0
+Jaidon Anthony,Left Winger,24,15,9000000,Medium,23-26,9.0
+Harvey Barnes,Left Winger,26,14,35000000,Medium,23-26,35.0
+Iliman Ndiaye,Left Winger,24,11,22000000,Low,23-26,22.0
+Gonçalo Guedes,Left Winger,27,10,11000000,Low,27-30,11.0
+Marcus Tavernier,Left Winger,25,9,18000000,Low,23-26,18.0
+Heung-min Son,Left Winger,31,19,20000000,High,31-35,20.0
+Erling Haaland,Centre-Forward,23,27,180000000,Very High,23-26,180.0
+João Pedro,Centre-Forward,22,17,50000000,High,18-22,50.0
+Wilson Isidor,Centre-Forward,23,16,12000000,High,23-26,12.0
+Stefanos Tzimas,Centre-Forward,18,15,22000000,Medium,,22.0
+Nicolas Jackson,Centre-Forward,23,15,50000000,Medium,23-26,50.0
+Liam Delap,Centre-Forward,21,14,40000000,Medium,18-22,40.0
+Rodrigo Muniz,Centre-Forward,23,13,20000000,Medium,23-26,20.0
+Fábio Silva,Centre-Forward,21,13,20000000,Medium,18-22,20.0
+Georginio Rutter,Centre-Forward,22,13,32000000,Medium,18-22,32.0
+Eliezer Mayenda,Centre-Forward,19,13,12000000,Medium,18-22,12.0
+Zeki Amdouni,Centre-Forward,23,11,12000000,Low,23-26,12.0
+Omar Marmoush,Centre-Forward,25,39,75000000,Very High,23-26,75.0
+Alexander Isak,Centre-Forward,24,33,120000000,Very High,23-26,120.0
+Joël Piroe,Centre-Forward,24,26,18000000,Very High,23-26,18.0
+Ollie Watkins,Centre-Forward,28,26,40000000,Very High,27-30,40.0
+Yoane Wissa,Centre-Forward,27,25,32000000,Very High,27-30,32.0
+Jean-Philippe Mateta,Centre-Forward,27,21,30000000,Very High,27-30,30.0
+Jørgen Strand Larsen,Centre-Forward,24,19,30000000,High,23-26,30.0
+Zian Flemming,Centre-Forward,25,18,6500000,High,23-26,6.5
+Evanilson,Centre-Forward,24,17,35000000,High,23-26,35.0
+Dominic Solanke,Centre-Forward,26,15,40000000,Medium,23-26,40.0
+Kai Havertz,Centre-Forward,25,14,65000000,Medium,23-26,65.0
+Chris Wood,Centre-Forward,32,23,10000000,Very High,31-35,10.0
+Raúl Jiménez,Centre-Forward,33,17,5000000,High,31-35,5.0
+Danny Welbeck,Centre-Forward,33,15,5000000,Medium,31-35,5.0
+João Pedro,Centre-Forward,32,8,1800000,Low,31-35,1.8
